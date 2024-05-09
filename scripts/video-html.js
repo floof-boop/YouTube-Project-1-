@@ -1,0 +1,1 @@
+import {video} from '../scripts/video-list';
